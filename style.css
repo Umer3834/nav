@@ -1,0 +1,67 @@
+.one{
+    height: 60vh;
+    width: 25%;
+    border: 2px solid red;
+    margin: 0% auto;
+    margin-top: 100px;
+    overflow: hidden;
+    /* position: relative; */
+}
+.two{
+    width: 900%;
+    height: 100%;
+    /* background-color: red; */
+    position: relative;
+    display: flex;
+}
+.two>div{
+    height: 100%;
+    width: 12%;
+}
+.three{
+    background-image: url(./fresh__gallery-01_1600x.jpg);
+    background-size: 100% 100%;
+}
+.four{
+    background-image: url(./fresh__gallery-02_1600x.jpg);
+    background-size: 100% 100%;
+}
+.five{
+    background-image: url(./fresh__gallery-03_1600x.jpg);
+    background-size: 100% 100%;
+}
+.six{
+    background-image: url(./fresh__gallery-04_1600x.jpg);
+    background-size: 100% 100%;
+}
+.seven{
+    background-image: url(./fresh__imt-01_1600x.jpg);
+    background-size: 100% 100%;
+}
+.seven1{
+    background-image: url(./solid-soap-4_1600x.jpg);
+    background-size: 100% 100%;
+}
+.seven2{
+    background-image: url(./solid-soap-5_1600x.jpg);
+    background-size: 100% 100%;
+}
+.seven3{
+    background-image: url(./solid-soap-6_1600x.jpg);
+    background-size: 100% 100%;
+}
+.seven4{
+    background-image: url(./solid-soap-7_1600x.jpg);
+    background-size: 100% 100%;
+}
+button{
+    position: absolute;
+    z-index:1;
+    top: 45%;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.eight
+{
+left:58%;
+}
